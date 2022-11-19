@@ -90,7 +90,7 @@
       &.current,
       &.current.disabled {
         color: #fff;
-        background: $primary-color-DIY;
+        background: $primary-color;
       }
 
       &.disabled {
@@ -129,7 +129,7 @@
     text-align: center;
     text-decoration: none;
     color: $muted-text-color;
-    border: 1px solid mix(#000, $border-color, 25%);
+    border: none;
     border-radius: $border-radius;
 
     &:hover {

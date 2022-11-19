@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "데이터 통신"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
-taxonomy: Categories1
+taxonomy: 데이터 통신
 sidebar:
   nav: "categories"
 ---
