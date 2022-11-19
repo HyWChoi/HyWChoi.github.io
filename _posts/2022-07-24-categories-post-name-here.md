@@ -1,21 +1,23 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "문맥교환"
+excerpt: "테스트용 포스팅"
 
 categories:
-  - Categories1
+  - 운영체제
 tags:
-  - [tag1, tag2]
+  - [문맥교환, PCB]
 
-permalink: /categories1/post-name-here/
+permalink: /categories1/문맥교환/
 
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2022-11-19
+last_modified_at: 2022-11-19
 ---
 
-## 🦥 본문
+## 문맥 교환
 
-본문은 여기에 ...
+- ### 문맥교환
+  - CPU를 차지하던 프로세스가 나가고 새로운 프로세스를 받아들이는 작업
+  - #실행상태 에서 나가는 프로세스 제어 블록에는 지금까지의 작업 내용을 저장하고, 반대로 실행 상태로 들어오는 프로세스 제어 블록의 내용으로 CPU가 다시 세팅
