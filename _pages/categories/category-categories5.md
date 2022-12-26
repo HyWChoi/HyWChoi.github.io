@@ -1,9 +1,9 @@
 ---
-title: "DataBase"
+title: "Algorithm"
 layout: category
 permalink: /categories/categories5/
 author_profile: true
-taxonomy: DataBase
+taxonomy: Algorithm
 sidebar:
-  nav: "categories"
+  nav: "Algorithm"
 ---
