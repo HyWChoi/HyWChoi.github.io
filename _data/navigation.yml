@@ -18,13 +18,5 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "데이터 통신"
-    url: /categories/categories1/
-  - title: "운영체제"
-    url: /categories/categories2/
-  - title: "React"
-    url: /categories/categories3/
-  - title: "NodeJS"
-    url: /categories/categories4/
-  - title: "DataBase"
+  - title: "알고리즘"
     url: /categories/categories5/
