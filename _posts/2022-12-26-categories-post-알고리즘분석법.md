@@ -7,7 +7,7 @@ categories:
 tags:
   - [시간복잡도, 공간복잡도, 빅오표기법]
 
-permalink: /categories5/알고리즘2/
+permalink: /categories3/알고리즘2/
 
 toc: true
 toc_sticky: true
@@ -19,9 +19,11 @@ last_modified_at: 2022-12-26
 ## 알고리즘 분석
 
 - ### 공간 복잡도(Space Complexity)
+
   - 알고리즘이 문제 해결시 차지하는 메모리등의 공간을 뜻한다.
 
 - ### 시간 복잡도(Time Complexity)
+
   - 알고리즘이 문제 해결시 처리하는데 소요되는 시간을 뜻한다.
   - 방법
     - 실제적 방법

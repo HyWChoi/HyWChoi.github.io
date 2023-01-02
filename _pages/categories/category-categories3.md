@@ -1,7 +1,7 @@
 ---
 title: "React"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/categories1/
 author_profile: true
 taxonomy: React
 sidebar:
