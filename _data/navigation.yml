@@ -17,6 +17,8 @@ main:
 categories:
   - title: "React"
     url: /categories/categories1/
+    - title: "생일기념카드프로젝트"
+    url: /categories/categories1/23thBirthDay/
   - title: "NodeJS"
     url: /categories/categories2/
   - title: "Algorithm"
