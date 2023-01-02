@@ -7,7 +7,7 @@ categories:
 tags:
   - [divide&qonquer, greedy, dynamic programming]
 
-permalink: /categories1/23thBirthDay/summary
+permalink: /23thBirthDayProject/summary
 
 toc: true
 toc_sticky: true

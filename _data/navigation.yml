@@ -16,9 +16,11 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "React"
-    url: /categories/categories1/
-    - title: "생일기념카드프로젝트"
-    url: /categories/categories1/23thBirthDay/
+    children:
+      - title: "생일기념카드프로젝트"
+        url: /categories/23thBirthDayProject/
+      - title: "리액트 게시판 만들기"
+        url: /categories/BoardProject/
   - title: "NodeJS"
     url: /categories/categories2/
   - title: "Algorithm"
