@@ -44,6 +44,18 @@ last_modified_at: 2022-01-02
 
 ## 결과물
 
-![시작1](./postpic/본문1)
-![시작1](./포스트사진/본문1)
-![시작1](./포스트사진/본문1)
+### 첫 페이지
+
+![시작1](/assets/images/posts_img/카드만들기md/시작1.png)
+
+![시작2](/assets/images/posts_img/카드만들기md/시작2.png)
+
+![시작3](/assets/images/posts_img/카드만들기md/시작3.png)
+
+### 버튼 넘긴 후 페이지
+
+![본문1](/assets/images/posts_img/카드만들기md/본문1.png)
+
+![본문2](/assets/images/posts_img/카드만들기md/본문2.png)
+
+![본문3](/assets/images/posts_img/카드만들기md/본문3.png)
