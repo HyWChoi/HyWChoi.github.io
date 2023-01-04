@@ -1,11 +1,11 @@
 ---
 title: "[React] 생일 기념 초대 카드 만들기"
-excerpt: "divide&qonquer, greedy, dynamic programming"
+excerpt: "리액트"
 
 categories:
   - React
 tags:
-  - [divide&qonquer, greedy, dynamic programming]
+  - [리액트]
 
 permalink: /23thBirthDayProject/summary
 
