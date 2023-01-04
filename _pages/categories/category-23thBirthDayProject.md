@@ -1,7 +1,7 @@
 ---
-title: "23년 생일 기념 카드"
+title: "React"
 layout: category
-permalink: /categories/BoardProject/
+permalink: /categories/categories1/
 author_profile: true
 taxonomy: React
 sidebar:

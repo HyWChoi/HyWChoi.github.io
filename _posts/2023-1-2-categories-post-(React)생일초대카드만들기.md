@@ -7,7 +7,7 @@ categories:
 tags:
   - [리액트]
 
-permalink: /23thBirthDayProject/summary
+permalink: /categories1/summary
 
 toc: true
 toc_sticky: true
