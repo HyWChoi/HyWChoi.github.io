@@ -1,11 +1,11 @@
 ---
-title: "[React] 생일 기념 초대 카드 만들기"
-excerpt: "divide&qonquer, greedy, dynamic programming"
+title: "[NodeJS] 익스프레스 미들웨어 정리"
+excerpt: "middleware"
 
 categories:
-  - React
+  - NodeJS
 tags:
-  - [divide&qonquer, greedy, dynamic programming]
+  - [middleware]
 
 permalink: /categories2/nodejs1
 
