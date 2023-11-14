@@ -15,5 +15,7 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Computer Structure"
-    url: /categories/categories1/
+  - title: "CS"
+    children:
+      - title: "Computer Structure"
+        url: /categories/Computer Structure/
