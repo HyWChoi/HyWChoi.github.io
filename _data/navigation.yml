@@ -18,4 +18,6 @@ categories:
   - title: "CS"
     children:
       - title: "Computer Structure"
-        url: /categories/Computer Structure/
+        url: /categories/computer_structure/
+  - title: "trash"
+    url: /categories/trash

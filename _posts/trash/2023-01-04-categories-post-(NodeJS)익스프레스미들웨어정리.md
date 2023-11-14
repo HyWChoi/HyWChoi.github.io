@@ -3,11 +3,11 @@ title: "[NodeJS] 익스프레스 미들웨어 정리"
 excerpt: "middleware"
 
 categories:
-  - NodeJS
+  - trash
 tags:
   - [middleware]
 
-permalink: /categories2/nodejs1
+permalink: /categories/trash
 
 toc: true
 toc_sticky: true

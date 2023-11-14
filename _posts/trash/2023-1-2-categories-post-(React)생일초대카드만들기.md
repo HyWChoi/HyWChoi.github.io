@@ -3,11 +3,11 @@ title: "[React] 생일 기념 초대 카드 만들기"
 excerpt: "리액트"
 
 categories:
-  - React
+  - trash
 tags:
   - [리액트]
 
-permalink: /categories1/summary
+permalink: /categories/trash
 
 toc: true
 toc_sticky: true

@@ -3,11 +3,11 @@ title: "알고리즘 분석"
 excerpt: "시간복잡도, 공간복잡도, 빅오표기법"
 
 categories:
-  - Algorithm
+  - trash
 tags:
   - [시간복잡도, 공간복잡도, 빅오표기법]
 
-permalink: /categories3/알고리즘2/
+permalink: /categories/trash
 
 toc: true
 toc_sticky: true

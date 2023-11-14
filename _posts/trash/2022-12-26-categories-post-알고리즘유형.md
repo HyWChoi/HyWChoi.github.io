@@ -3,11 +3,11 @@ title: "알고리즘의 3가지 유형"
 excerpt: "divide&qonquer, greedy, dynamic programming"
 
 categories:
-  - Algorithm
+  - trash
 tags:
   - [divide&qonquer, greedy, dynamic programming]
 
-permalink: /categories3/알고리즘1/
+permalink: /categories/trash
 
 toc: true
 toc_sticky: true
